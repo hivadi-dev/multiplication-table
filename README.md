@@ -1,6 +1,6 @@
 # increase-decrease
 
-
+![Image](https://github.com/user-attachments/assets/718aea1b-fbeb-4b48-a1f8-d51ab41033f1)
 
 - Developed by hiva dargazani
 
